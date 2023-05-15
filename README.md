@@ -9,5 +9,5 @@ Powering this thing is pretty easy with just a small Li-Po battery of around 400
 
 
 
-![handheld](https://github.com/stelios1361/ArduinoCalculatorSnake/blob/main/img/IMG_20230515_235937.jpg)
-![handheld](https://github.com/stelios1361/ArduinoCalculatorSnake/blob/main/img/IMG_20230515_235953.jpg)
+![handheld](https://github.com/stelios1361/ArduinoCalculatorSnake/blob/main/images/IMG_20230515_235937.jpg)
+![handheld](https://github.com/stelios1361/ArduinoCalculatorSnake/blob/main/images/IMG_20230515_235953.jpg)
