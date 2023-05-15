@@ -7,6 +7,7 @@
 #include <EEPROM.h>
 //backlight pin
 #define backlight 5
+//buzzer pin
 #define buzzer 9
 //some usefful defines for calculator
 #define screen_w  84
