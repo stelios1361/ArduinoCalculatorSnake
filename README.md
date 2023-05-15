@@ -1,4 +1,4 @@
-# ArduinoCalculatorSnakeAn 
+# ArduinoCalculatorSnake
 easy-to-make fun project and somewhat helpful! 
 It's a device that can do math but also can play the 'ol classic snake game. 
 The main part of the project is the central microcontroller the ATMEGA328p. 
